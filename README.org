@@ -4,8 +4,6 @@ Authors:  Thomas H. Scheike, Torben Martinussen, Brice Ozenne
 
 * Content of the folder
 
-* Run R code
-
 -  [[./run-simulations.R]] run the simulation studies presented in section
   7 "Simulations".
 -  [[./figure1.R]] contains the code used to generate figure 1 from the
